@@ -18,7 +18,7 @@ const LandingPageNavber = () => {
         <Link href='/'>Pricing</Link>
         <Link href='/'>Contact</Link>
       </div>
-      <Link href='/auth/callback/sign-in'>
+      <Link href='/auth/sign-in'>
       <Button className='text-base flex gap-x-2'>
      <User  fill='#000' /> Login
       </Button>
